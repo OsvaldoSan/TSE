@@ -1,0 +1,11 @@
+# Archivos molestos
+*.tar*
+*.csv
+*.zip
+
+# Archivos de jupyter
+.ipynb_checkpoints/*
+
+# Datos
+*pdf*
+datos/*
