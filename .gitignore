@@ -5,7 +5,7 @@
 
 # Archivos de jupyter
 .ipynb_checkpoints/*
-
+*.ipynb_checkpoints/
 # Datos
 *pdf*
 datos/*
